@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Prog\\Physics lab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|c:\\users\\prog\\physics lab\\assets\\scripts\\createmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12950119-5CE6-F90A-E746-FF7AA55C0CBA}|Assembly-CSharp-Editor.csproj|C:\\Users\\Prog\\Physics lab\\assets\\editor\\laboratoryprefabcreator..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12950119-5CE6-F90A-E746-FF7AA55C0CBA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\laboratoryprefabcreator..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|c:\\users\\prog\\physics lab\\assets\\scripts\\levelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|C:\\Users\\Prog\\Physics lab\\assets\\scripts\\removableweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\removableweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|C:\\Users\\Prog\\Physics lab\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|C:\\Users\\Prog\\Physics lab\\assets\\scripts\\snappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snappoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|C:\\Users\\Prog\\Physics lab\\assets\\scripts\\createmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{302A4628-B542-BD51-C85D-4ABC11785140}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\createmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DB3A75-BE7C-EAC3-B196-2F973ACE2E2F}|SteamVR.csproj|C:\\Users\\Prog\\Physics lab\\assets\\steamvr\\steamvr.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02DB3A75-BE7C-EAC3-B196-2F973ACE2E2F}|SteamVR.csproj|solutionrelative:assets\\steamvr\\steamvr.asmdef||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\NewEmptyCSharpScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +63,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LaboratoryPrefabCreator..cs",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Editor\\LaboratoryPrefabCreator..cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\LaboratoryPrefabCreator..cs",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Editor\\LaboratoryPrefabCreator..cs",
+              "RelativeToolTip": "Assets\\Editor\\LaboratoryPrefabCreator..cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T09:19:10.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemovableWeight.cs",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\RemovableWeight.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RemovableWeight.cs",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\RemovableWeight.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RemovableWeight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:32:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnapPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\SnapPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnapPoint.cs",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\SnapPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnapPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:31:54.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LevelBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\LevelBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelBuilder.cs",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\LevelBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelBuilder.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAjwHMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T08:29:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneChanger.cs",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\SceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneChanger.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T06:42:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SteamVR.asmdef",
+              "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\SteamVR\\SteamVR.asmdef",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\SteamVR.asmdef",
+              "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\SteamVR\\SteamVR.asmdef",
+              "RelativeToolTip": "Assets\\SteamVR\\SteamVR.asmdef",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001874|",
+              "WhenOpened": "2026-03-08T07:26:45.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CreateManager.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\CreateManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CreateManager.cs",
               "ToolTip": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\CreateManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\CreateManager.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T17:05:35.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T17:05:35.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "NewEmptyCSharpScript.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\Scripts\\NewEmptyCSharpScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NewEmptyCSharpScript.cs",
@@ -62,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "LabelsTab.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Views\\Labels\\LabelsTab.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Views\\Labels\\LabelsTab.cs",
@@ -73,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "SteamVR_RenderModel.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Assets\\SteamVR\\Scripts\\SteamVR_RenderModel.cs",
               "RelativeDocumentMoniker": "Assets\\SteamVR\\Scripts\\SteamVR_RenderModel.cs",
@@ -85,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "UpdateReportDialog.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Gluon\\UpdateReport\\UpdateReportDialog.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@1ec4e416a4af\\Editor\\Gluon\\UpdateReport\\UpdateReportDialog.cs",
@@ -97,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "SampleDependencyImporter.cs",
               "DocumentMoniker": "C:\\Users\\Prog\\Physics lab\\Library\\PackageCache\\com.unity.render-pipelines.core@47a0d8baabbd\\Editor\\SampleDependencyImportSystem\\SampleDependencyImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@47a0d8baabbd\\Editor\\SampleDependencyImportSystem\\SampleDependencyImporter.cs",
